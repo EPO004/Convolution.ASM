@@ -1,4 +1,4 @@
-# Convolution.ASM
+# x86-64-simd-numerical-kernels
 
 Low-level implementations of **matrix multiplication** and **2D convolution** in x86-64 NASM assembly, with a Python reference implementation and benchmark results for comparing scalar and SIMD execution.
 
